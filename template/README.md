@@ -1,4 +1,4 @@
-# webpack-awesome
+# vue-awesome
 
 > A Vue.js project
 
@@ -7,9 +7,6 @@
 ``` bash
 # install dependencies
 npm install
-
-# init
-bash init.sh
 
 # serve with hot reload at localhost:8080
 npm run dev
